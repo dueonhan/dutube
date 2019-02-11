@@ -1,0 +1,10 @@
+{
+  "name": "dutube",
+  "version": "1.0.0",
+  "description": "Cloning youtube with Vanila and Nodejs",
+  "main": "index.js",
+  "author": "dueonhan",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
